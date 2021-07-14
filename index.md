@@ -7,8 +7,8 @@
 <img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/Plant.PNG" width="30%"/> 
 <img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/Start.PNG" width="30%"/> 
 
-My first ever 2D Platform game with Unity.
-Made following ElenaImagineer's YouTube tutorials.
+My first ever 2D Platform game with Unity.<br/>
+Made following ElenaImagineer's YouTube tutorials.<br/>
 
 GitHub repositorie: [2D Platform](https://github.com/kevinml98/2DPlatform)
 
@@ -17,8 +17,8 @@ GitHub repositorie: [2D Platform](https://github.com/kevinml98/2DPlatform)
 <img src="https://github.com/kevinml98/GametopiaFPS/raw/main/GameImages/ObjectImpact.PNG" width="30%"/> 
 <img src="https://github.com/kevinml98/GametopiaFPS/raw/main/GameImages/start.PNG" width="30%"/> 
 
-My first ever 3D FPS game with Unity.
-Made for Gametopia "Programming with Unity" course.
+My first ever 3D FPS game with Unity.<br/>
+Made for Gametopia "Programming with Unity" course.<br/>
 
 GitHub repositorie: [2D Platform](https://github.com/kevinml98/GametopiaFPS)
 
