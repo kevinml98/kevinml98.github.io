@@ -7,7 +7,7 @@
 <img src="https://github.com/kevinml98/2DPlatform/blob/main/GameImages/Plant.PNG" width="30%"></img> 
 <img src="https://github.com/kevinml98/2DPlatform/blob/main/GameImages/Start.PNG" width="30%"></img> 
 
-GitHub repositorie: [2D Platform]https://github.com/kevinml98/2DPlatform
+GitHub repositorie: [2D Platform](https://github.com/kevinml98/2DPlatform)
 
 ### Gametopia FPS
 
