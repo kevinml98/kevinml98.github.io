@@ -1,18 +1,18 @@
 [Work in Progress]
 ## 2D platform
-<img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/MadPig.PNG" width="30%"></img> 
-<img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/MobilePlatform.PNG" width="30%"></img> 
-<img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/NormalPig.PNG" width="30%"></img> 
-<img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/OneWayPlatform.PNG" width="30%"></img> 
-<img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/Plant.PNG" width="30%"></img> 
-<img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/Start.PNG" width="30%"></img> 
+<img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/MadPig.PNG" width="30%"/> 
+<img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/MobilePlatform.PNG" width="30%"/> 
+<img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/NormalPig.PNG" width="30%"/> 
+<img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/OneWayPlatform.PNG" width="30%"/> 
+<img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/Plant.PNG" width="30%"/> 
+<img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/Start.PNG" width="30%"/> 
 
 GitHub repositorie: [2D Platform](https://github.com/kevinml98/2DPlatform)
 
 ## Gametopia FPS
-<img src="https://github.com/kevinml98/GametopiaFPS/raw/main/GameImages/Explosion.PNG" width="30%"></img> 
-<img src="https://github.com/kevinml98/GametopiaFPS/raw/main/GameImages/ObjectImpact.PNG" width="30%"></img> 
-<img src="https://github.com/kevinml98/GametopiaFPS/raw/main/GameImages/start.PNG" width="30%"></img> 
+<img src="https://github.com/kevinml98/GametopiaFPS/raw/main/GameImages/Explosion.PNG" width="30%"/> 
+<img src="https://github.com/kevinml98/GametopiaFPS/raw/main/GameImages/ObjectImpact.PNG" width="30%"/> 
+<img src="https://github.com/kevinml98/GametopiaFPS/raw/main/GameImages/start.PNG" width="30%"/> 
 
 GitHub repositorie: [2D Platform](https://github.com/kevinml98/GametopiaFPS)
 
