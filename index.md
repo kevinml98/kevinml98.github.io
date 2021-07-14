@@ -6,6 +6,9 @@
 <img src="https://github.com/kevinml98/2DPlatform/blob/main/GameImages/OneWayPlatform.PNG" width="30%"></img> 
 <img src="https://github.com/kevinml98/2DPlatform/blob/main/GameImages/Plant.PNG" width="30%"></img> 
 <img src="https://github.com/kevinml98/2DPlatform/blob/main/GameImages/Start.PNG" width="30%"></img> 
+<img src="../2DPlatform/blob/main/GameImages/OneWayPlatform.PNG" width="30%"></img> 
+<img src="../2DPlatform/blob/main/GameImages/Plant.PNG" width="30%"></img> 
+<img src="../2DPlatform/blob/main/GameImages/Start.PNG" width="30%"></img> 
 
 ### Gametopia FPS
 
