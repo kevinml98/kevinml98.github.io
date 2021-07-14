@@ -22,7 +22,7 @@ GitHub repositorie: [2D Platform](https://github.com/kevinml98/2DPlatform)<br/><
 My first ever 3D FPS game with Unity.<br/>
 Made for Gametopia "Programming with Unity" course.<br/>
 
-GitHub repositorie: [2D Platform](https://github.com/kevinml98/GametopiaFPS)<br/><br/>
+GitHub repositorie: [Gametopia FPS](https://github.com/kevinml98/GametopiaFPS)<br/><br/>
 
 ### Unity Badges
 
