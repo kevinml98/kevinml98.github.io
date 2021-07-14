@@ -1,4 +1,16 @@
-## Welcome to my Portfolio
+### Professional experience
+
+### Formation
+
+### Languages
+- Spanish
+    Native.
+- Catalan
+    Native.
+- English
+    Mid-high level.
+- German
+    Basics.
 
 ### Unity Badges
 
