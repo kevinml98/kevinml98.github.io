@@ -1,5 +1,3 @@
-# Kevin Martinez Leiva
-
 <br/>
 ### 2D platform
 <img src="https://github.com/kevinml98/2DPlatform/raw/main/GameImages/MadPig.PNG" width="30%"/> 
